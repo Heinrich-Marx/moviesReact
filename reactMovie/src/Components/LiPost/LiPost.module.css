@@ -1,0 +1,8 @@
+.li {
+  list-style-type:none;
+}
+
+.image {
+  height: 60%;
+  object-fit: cover;
+}
